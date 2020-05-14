@@ -4,3 +4,6 @@
 
 [Make over Monday Operation Fistula 2018 link](https://acafa85.github.io/infovis/mom2018w18_cafa_adrian.html)
 
+[Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.html)
+
+
