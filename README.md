@@ -8,5 +8,5 @@
 
 [All gists link](https://bl.ocks.org/acafa85)
 
-[scatterplot en d3.js link](https://acafa85.github.io/infovis/.html)
+[scatterplot en d3.js link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
 
