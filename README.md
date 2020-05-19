@@ -10,4 +10,4 @@
 
 [scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
 
-[Histograma de metricas dinámico en d3.js de mom_w19 link](https://acafa85.github.io/infovis/.html)
+[Histograma de metricas dinámico en d3.js de mom_w19 link](https://acafa85.github.io/infovis/draw-bars-mom-w19/index.html)
