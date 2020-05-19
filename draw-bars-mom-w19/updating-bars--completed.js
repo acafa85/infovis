@@ -1,7 +1,7 @@
 async function drawBars() {
 
   // 1. Access data
-  const dataset = await d3.json("./../../happiness.json")
+  const dataset = await d3.json("./../felicidad.json")
   
    
   console.table(dataset[0])
