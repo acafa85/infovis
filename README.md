@@ -12,7 +12,7 @@
 
 ## Make over monday semana 18:
 
-[Make over Monday Operation Fistula 2018 link](https://acafa85.github.io/infovis/mom2018w18_cafa_adrian.html)
+[Make over Monday Operation Fistula in Madagascar 2018 link](https://acafa85.github.io/infovis/mom2018w18_cafa_adrian.html)
 
 ## Make over monday semana 19:
 [scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
