@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-[# H1]
+# H1 hola mundo
 
 [Markdown Cheatsheet link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
