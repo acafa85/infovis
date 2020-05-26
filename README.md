@@ -25,5 +25,5 @@
 
 ## Estadisticas de uso de mouse y teclado:
 
-[Estadisticas de uso de mouse y teclado link](https://acafa85.github.io/infovis/TP_personal_Adrian_Cafa)
+[Estadisticas de uso de mouse y teclado link](https://acafa85.github.io/infovis/TP_personal_Adrian_Cafa.html)
 
