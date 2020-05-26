@@ -23,3 +23,7 @@
 
 [Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.html)
 
+## Estadisticas de uso de mouse y teclado:
+
+[Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/TP_personal_Adrian_Cafa)
+
