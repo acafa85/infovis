@@ -21,9 +21,9 @@
 
 ## Evolución del dolar en Argentina:
 
-[Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.htm)
+[Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.html)
 
 ## Estadisticas de uso de mouse y teclado:
 
-[Estadisticas de uso de mouse y teclado link](https://acafa85.github.io/infovis/TP_personal_Adrian_Cafa.html)
+[Estadisticas de uso de mouse y teclado link](https://acafa85.github.io/infovis/TP_personal_Adrian_Cafa.htm)
 
