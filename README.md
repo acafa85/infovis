@@ -25,6 +25,9 @@
 ## Make over monday semana 21:
 [mom_w21 40 Years of Music Industry Sales link](https://bl.ocks.org/acafa85/07337ab5dff078058cb2d096dcfea484)
 
+[mom_w21 40 Years of Music Industry Sales parte 2 link](https://acafa85.github.io/infovis/pepe.html)
+
+
 ## Evolución del dolar en Argentina:
 
 [Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.html)
