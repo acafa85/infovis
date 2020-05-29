@@ -20,10 +20,10 @@
 [Histograma de metricas dinámico en d3.js de mom_w19 link](https://acafa85.github.io/infovis/draw-bars-mom-w19/index.html)
 
 ## Make over monday semana 20:
-[scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
+[Cost of car insurance by state link](http://bl.ocks.org/acafa85/b14e22ac8c981d8a9e8c1524abbf42cd)
 
 ## Make over monday semana 21:
-[scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
+[mom_w21 40 Years of Music Industry Sales link](https://bl.ocks.org/acafa85/07337ab5dff078058cb2d096dcfea484)
 
 ## Evolución del dolar en Argentina:
 
