@@ -20,7 +20,9 @@
 [Histograma de metricas dinámico en d3.js de mom_w19 link](https://acafa85.github.io/infovis/draw-bars-mom-w19/index.html)
 
 ## Make over monday semana 20:
-[Cost of car insurance by state link](http://bl.ocks.org/acafa85/b14e22ac8c981d8a9e8c1524abbf42cd)
+[mom_w20_Cost of car insurance by state link](http://bl.ocks.org/acafa85/b14e22ac8c981d8a9e8c1524abbf42cd)
+
+[mom_w20_Cost of car insurance by state in Fluorish link](https://acafa85.github.io/infovis/mom_w20_cost_of_cars_insurance.html)
 
 ## Make over monday semana 21:
 [mom_w21 40 Years of Music Industry Sales link](https://bl.ocks.org/acafa85/07337ab5dff078058cb2d096dcfea484)
