@@ -19,6 +19,12 @@
 
 [Histograma de metricas dinámico en d3.js de mom_w19 link](https://acafa85.github.io/infovis/draw-bars-mom-w19/index.html)
 
+## Make over monday semana 20:
+[scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
+
+## Make over monday semana 21:
+[scatterplot en d3.js mom_w19 ladder_score vs logged_gdp_per_capita link](https://acafa85.github.io/infovis/scatterplot/completed/index.html)
+
 ## Evolución del dolar en Argentina:
 
 [Evolucion dolar en Argentina link](https://acafa85.github.io/infovis/evolucion_dolar_argentina.html)
